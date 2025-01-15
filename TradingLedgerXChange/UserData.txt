@@ -1,0 +1,23 @@
+User Information:
+Username: Aleem
+Email: aleem@gmail.com
+
+
+Wallet Information:
+Wallet ID: 5003
+Balance: $730005
+
+
+Portfolio Information:
+Portfolio Details:
+Asset: Bitcoin, Quantity: 1
+Asset: Ripple, Quantity: 7
+
+
+Order History:
+Order History:
+Order ID: 6018, Asset: Bitcoin, Quantity: 1, Price: $75465.4, Date: 2025-01-13 16:47:58, Type: Buy
+Order ID: 6019, Asset: Ripple, Quantity: 4, Price: $10302.3, Date: 2025-01-13 16:52:16, Type: Buy
+Order ID: 6020, Asset: Bitcoin, Quantity: 2, Price: $76660.1, Date: 2025-01-13 16:53:57, Type: Buy
+
+
